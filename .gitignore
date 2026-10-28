@@ -1,0 +1,26 @@
+# Thư mục build do Gradle sinh ra
+build/
+.gradle/
+.kotlin/
+
+# Cấu hình riêng của Android Studio trên từng máy
+.idea/
+*.iml
+
+# Đường dẫn Android SDK trên máy cá nhân
+local.properties
+
+# File tạm của hệ điều hành / công cụ
+.DS_Store
+Thumbs.db
+/captures
+.externalNativeBuild
+.cxx
+*.log
+
+# File cấu hình do VS Code / Eclipse tự sinh khi mở project
+.vscode/
+.project
+.classpath
+.settings/
+bin/

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Màu chủ đạo: đỏ PTIT giống cổng S-Link (slink.ptit.edu.vn) -->
+    <color name="primary">#FFCC0D00</color>
+    <color name="primary_dark">#FF990A00</color>
+    <color name="primary_light">#FFFCEBEA</color>
+    <color name="danger">#FF8A0900</color>
+
+    <color name="background">#FFF5F5F5</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="border">#FFD4D4D4</color>
+    <color name="divider">#FFE6E6E6</color>
+    <color name="text_primary">#FF2E2E2E</color>
+    <color name="text_secondary">#FF707070</color>
+    <color name="text_hint">#FFA0A0A0</color>
+    <color name="error">#FFCC0D00</color>
+    <color name="star">#FFFFB300</color>
+
+    <!-- Màu nền ảnh đại diện (chữ cái đầu của tên) -->
+    <color name="avatar_red">#FFCC0D00</color>
+    <color name="avatar_blue">#FF0087C3</color>
+    <color name="avatar_gold">#FFB07D1E</color>
+    <color name="avatar_purple">#FF6A1B9A</color>
+    <color name="avatar_teal">#FF00897B</color>
+    <color name="avatar_steel">#FF4A6FA5</color>
+</resources>

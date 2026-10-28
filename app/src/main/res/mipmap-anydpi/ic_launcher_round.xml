@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icon cho Android 7.x (chưa hỗ trợ adaptive icon): hình tròn đỏ và biểu tượng điện thoại -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/primary" />
+        </shape>
+    </item>
+    <item
+        android:bottom="12dp"
+        android:drawable="@drawable/ic_phone"
+        android:left="12dp"
+        android:right="12dp"
+        android:top="12dp" />
+</layer-list>
